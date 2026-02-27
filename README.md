@@ -8,7 +8,7 @@
 - Python
 - HTML
 - CSS
-- JavaScript
+
 
 
 Always curious. Improving a little every day.
