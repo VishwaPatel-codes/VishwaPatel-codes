@@ -8,6 +8,7 @@
 - Python
 - HTML
 - CSS
+- Javascript
 
 
 
