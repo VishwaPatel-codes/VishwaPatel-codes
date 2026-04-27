@@ -1,6 +1,6 @@
 ## Hi, I'm Vishwa 👋
 
-- 🎓 First-year CS student at IIT Patna<br>
+- 🎓 First-year CS student <br>
 - 💻 Learning Web Development<br>
 - 🚀 Building and improving
 
