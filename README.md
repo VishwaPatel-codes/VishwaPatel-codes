@@ -45,13 +45,13 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-3F3B58?style=for-the-badge&logo=visualstudiocode&logoColor=B9A7FF)
 ![Figma](https://img.shields.io/badge/Figma-4B3652?style=for-the-badge&logo=figma&logoColor=E7B3D6)
 
----
+
 
 ## ✦ GitHub Stats
 
 <div align="center">
 
-![vishwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwa-io&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=B8B5FF&icon_color=FFB6C9&text_color=D8D0DC&bg_color=17131C)
+<img src="https://ghstats.dev/api/card?username=Vishwa-io&theme=tokyonight" />
 
 </div>
 
