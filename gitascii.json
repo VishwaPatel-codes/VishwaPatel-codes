@@ -1,0 +1,154 @@
+{
+  "widgets": [
+    {
+      "widgetId": "header",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "accentColor": "#ff4a4a"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1787316837662_0",
+      "name": "Header Widget"
+    },
+    {
+      "widgetId": "avatar",
+      "position": {
+        "x": 0,
+        "y": 106
+      },
+      "size": {
+        "width": 180,
+        "height": 180
+      },
+      "config": {
+        "accentColor": "#060606"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1787316837662_1",
+      "name": "Avatar Widget"
+    },
+    {
+      "widgetId": "bio",
+      "position": {
+        "x": 196,
+        "y": 106
+      },
+      "size": {
+        "width": 604,
+        "height": 180
+      },
+      "config": {
+        "customBio": "I'm Vishwa a 2nd-year CS student\nReact · JavaScript · HTML · CSS\nBuilding projects & learning by doing :)"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1787316837662_2",
+      "name": "Bio Widget"
+    },
+    {
+      "widgetId": "tech-stack",
+      "position": {
+        "x": 0,
+        "y": 302
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "html",
+          "css",
+          "py",
+          "react"
+        ],
+        "theme": "light"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1787316837662_3",
+      "name": "Tech-stack Widget"
+    },
+    {
+      "widgetId": "footer",
+      "position": {
+        "x": 0,
+        "y": 694
+      },
+      "size": {
+        "width": 800,
+        "height": 48
+      },
+      "config": {
+        "accentColor": "#ff4a4a"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7,
+      "instanceId": "widget_1787316837662_6",
+      "name": "Footer Widget"
+    },
+    {
+      "instanceId": "widget_1787317126287",
+      "widgetId": "github-readme-stats",
+      "name": "Github-readme-stats Widget",
+      "position": {
+        "x": 0,
+        "y": 458
+      },
+      "size": {
+        "width": 390,
+        "height": 210
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1787317168983",
+      "widgetId": "views-counter",
+      "name": "Views-counter Widget",
+      "position": {
+        "x": 584,
+        "y": 122
+      },
+      "size": {
+        "width": 200,
+        "height": 96
+      },
+      "config": {
+        "accentColor": "#060606"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#080808",
+    "textColor": "#e8e8e8",
+    "accentColor": "#facc15",
+    "borderColor": "#1c1c1c",
+    "fontFamily": "'Inter Tight', sans-serif",
+    "borderRadius": 8,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "devcard"
+  },
+  "templateId": "devcard"
+}
